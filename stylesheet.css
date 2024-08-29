@@ -1,0 +1,19 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+#buttons{
+    text-align: center;
+}
+.btns{
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: aqua;
+}
+.btns:hover{
+    background-color: gold;
+}
